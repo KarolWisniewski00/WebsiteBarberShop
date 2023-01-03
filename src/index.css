@@ -1,13 +1,21 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body{
+  background-color: #1b1d1b;
+}
+.color-custom{
+  color: #ae8147;
+}
+.color-custom-bg{
+  background-color: #ae8147;
+}
+.color-custom-bg:hover{
+  background-color: #8b6739;
+}
+.bg-img{
+  background: url(../public/images/barber40.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
