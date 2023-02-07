@@ -11,10 +11,7 @@ class Footer extends React.Component {
                         <a href="#" className="mr-4 hover:underline md:mr-6 ">Start</a>
                     </li>
                     <li>
-                        <a href="#" className="mr-4 hover:underline md:mr-6">Polityka prywatności</a>
-                    </li>
-                    <li>
-                        <a href="https://booksy.com/pl-pl/" className="mr-4 hover:underline md:mr-6">Rezerwacja</a>
+                        <a href="https://booksy.com/pl-pl/176541_sudio-fryzjerskie-avantgarde_fryzjer_12376_piekary-slaskie#ba_s=sr_1" className="mr-4 hover:underline md:mr-6">Rezerwacja</a>
                     </li>
                 </ul>
             </footer>

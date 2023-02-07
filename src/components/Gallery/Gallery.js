@@ -5,7 +5,7 @@ class Gallery extends React.Component {
         return (
             <section className="overflow-hidden text-gray-700 bg-img" id="gallery">
                 <div className="container px-5 py-2 mx-auto lg:py-16 lg:px-32 bg-stone-900/50 m-12">
-                    <h1 className="text-5xl md:text-6xl xl:text-7xl font-bold mb-12 color-custom text-center">Galeria</h1>
+                    <h1 className="text-5xl md:text-6xl xl:text-7xl font-bold mb-12 text-stone-100 text-center">Galeria</h1>
                     <div className="flex flex-wrap flex-col sm:flex-row -m-1 md:-m-2">
                         <div className="flex flex-wrap sm:w-1/2">
                             <div className="w-1/2 p-1 md:p-2">
