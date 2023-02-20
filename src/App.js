@@ -6,6 +6,7 @@ import Footer from "./components/Footer/Footer"
 import Gallery from "./components/Gallery/Gallery"
 import Price from "./components/Price/Price"
 import Contact from "./components/Contact/Contact"
+import Artist from "./components/Artist/Artist"
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Navbar/>
       <Hero/>
       <About/>
+      <Artist/>
       <Gallery/>
       <Price/>
       <Contact/>

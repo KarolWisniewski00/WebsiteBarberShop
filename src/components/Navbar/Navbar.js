@@ -28,6 +28,7 @@ function Navbar() {
                         <ul className="flex flex-col p-4 mt-4 bg-transparent md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium">
                             <li><a href="#" className="block py-2 pl-3 pr-4 md:p-0 text-stone-100 hover:text-stone-400" aria-current="page">Start</a></li>
                             <li><a href="#about" className="block py-2 pl-3 pr-4 md:p-0 text-stone-100 hover:text-stone-400" aria-current="page">O nas</a></li>
+                            <li><a href="#artist" className="block py-2 pl-3 pr-4 md:p-0 text-stone-100 hover:text-stone-400" aria-current="page">Artyści</a></li>
                             <li><a href="#gallery" className="block py-2 pl-3 pr-4 md:p-0 text-stone-100 hover:text-stone-400" aria-current="page">Galeria</a></li>
                             <li><a href="#price" className="block py-2 pl-3 pr-4 md:p-0 text-stone-100 hover:text-stone-400" aria-current="page">Cennik</a></li>
                             <li><a href="https://booksy.com/pl-pl/176541_sudio-fryzjerskie-avantgarde_fryzjer_12376_piekary-slaskie#ba_s=sr_1" className="block py-2 pl-3 pr-4 md:p-0 text-stone-100 hover:text-stone-400" aria-current="page">Rezerwacja</a></li>

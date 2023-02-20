@@ -45,7 +45,7 @@ class Contact extends React.Component {
                                         </tr>
                                         <tr>
                                             <td>Sobota</td>
-                                            <td className="text-right py-3">8:00 - 20:00</td>
+                                            <td className="text-right py-3">8:00 - 14:00</td>
                                         </tr>
                                         <tr>
                                             <td>Niedziela</td>
