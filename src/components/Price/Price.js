@@ -50,15 +50,15 @@ class Price extends React.Component {
                                         </tr>
                                         <tr className="border-b md:border-none">
                                             <td>Pielęgnacja ScalpClinix (Kojący)</td>
-                                            <td className="text-right py-3 whitespace-nowrap">60 PLN +</td>
+                                            <td className="text-right py-3 whitespace-nowrap">100 PLN</td>
                                         </tr>
                                         <tr className="border-b md:border-none">
                                             <td>Pielęgnacja ScalpClinix (Kontrolujący Sebum)</td>
-                                            <td className="text-right py-3 whitespace-nowrap">60 PLN +</td>
+                                            <td className="text-right py-3 whitespace-nowrap">100 PLN</td>
                                         </tr>
                                         <tr className="border-b md:border-none">
                                             <td>Pielęgnacja ScalpClinix (Przeciwłupieżowy)</td>
-                                            <td className="text-right py-3 whitespace-nowrap">60 PLN +</td>
+                                            <td className="text-right py-3 whitespace-nowrap">100 PLN</td>
                                         </tr>
                                         <tr className="border-b md:border-none">
                                             <td>Pielęgnacja L'Oreal MetalDetox</td>
@@ -67,6 +67,10 @@ class Price extends React.Component {
                                         <tr className="border-b md:border-none">
                                             <td>Pielęgnacja L'Oreal  ( regeneracja, wygładzenie, nawilżenie, objętość )</td>
                                             <td className="text-right py-3 whitespace-nowrap">55 PLN</td>
+                                        </tr>
+                                        <tr className="border-b md:border-none">
+                                            <td>BOTOX innowacyjny zabieg pielęgnacyjny, regeneracja i odbudowa ( utrzymuje się 3-6 miesięcy)</td>
+                                            <td className="text-right py-3 whitespace-nowrap">250 PLN</td>
                                         </tr>
                                         <tr className="border-b md:border-none">
                                             <td>Henna + regulacja brwi</td>

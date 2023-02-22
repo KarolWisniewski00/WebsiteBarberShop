@@ -8,7 +8,7 @@ class Gallery extends React.Component {
                     <h1 className="text-5xl md:text-6xl xl:text-7xl font-bold mb-12 text-stone-100 text-center">Galeria</h1>
                     <div className="flex flex-wrap flex-col sm:flex-row -m-1 md:-m-2">
                         <div className="flex flex-wrap sm:w-1/2">
-                            <div className="w-1/2 p-1 md:p-2">
+                            <div className="w-full p-1 md:p-2">
                                 <img alt="gallery" className="block object-cover object-center w-full h-full"
                                     src="images/zdj6.jpg"/>
                             </div>
@@ -19,10 +19,6 @@ class Gallery extends React.Component {
                             <div className="w-1/2 p-1 md:p-2">
                                 <img alt="gallery" className="block object-cover object-center w-full h-full"
                                     src="images/zdj2.jpg"/>
-                            </div>
-                            <div className="w-1/2 p-1 md:p-2">
-                                <img alt="gallery" className="block object-cover object-center w-full h-full"
-                                    src="images/zdj7.jpg"/>
                             </div>
                         </div>
                         <div className="flex flex-wrap sm:w-1/2">
@@ -43,15 +39,15 @@ class Gallery extends React.Component {
                     <h1 className="text-5xl md:text-6xl xl:text-7xl font-bold mb-12 text-stone-100 text-center my-3">Salon</h1>
                     <div className="flex flex-wrap flex-col sm:flex-row -m-1 md:-m-2">
                         <div className="flex flex-wrap sm:w-full">
-                            <div className="w-1/3 p-1 md:p-2">
+                            <div className="w-full md:w-1/3 p-1 md:p-2">
                                 <img alt="gallery" className="block object-cover object-center w-full h-full"
                                     src="images/salon1.jpg"/>
                             </div>
-                            <div className="w-1/3 p-1 md:p-2">
+                            <div className="w-full md:w-1/3 p-1 md:p-2">
                                 <img alt="gallery" className="block object-cover object-center w-full h-full"
                                     src="images/salon2.jpg"/>
                             </div>
-                            <div className="w-1/3 p-1 md:p-2">
+                            <div className="w-full md:w-1/3 p-1 md:p-2">
                                 <img alt="gallery" className="block object-cover object-center w-full h-full"
                                     src="images/salon3.jpg"/>
                             </div>
