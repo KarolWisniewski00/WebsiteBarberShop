@@ -29,23 +29,23 @@ class Contact extends React.Component {
                                         </tr>
                                         <tr>
                                             <td>Wtorek</td>
-                                            <td className="text-right py-3">9:00 - 20:00</td>
+                                            <td className="text-right py-3">8:00 - 19:00</td>
                                         </tr>
                                         <tr>
                                             <td>Środa</td>
-                                            <td className="text-right py-3">9:00 - 18:00</td>
+                                            <td className="text-right py-3">8:00 - 19:00</td>
                                         </tr>
                                         <tr>
                                             <td>Czwartek</td>
-                                            <td className="text-right py-3">9:00 - 18:00</td>
+                                            <td className="text-right py-3">8:00 - 19:00</td>
                                         </tr>
                                         <tr>
                                             <td>Piątek</td>
-                                            <td className="text-right py-3">9:00 - 20:00</td>
+                                            <td className="text-right py-3">8:00 - 19:00</td>
                                         </tr>
                                         <tr>
                                             <td>Sobota</td>
-                                            <td className="text-right py-3">8:00 - 14:00</td>
+                                            <td className="text-right py-3">8:00 - 16:00</td>
                                         </tr>
                                         <tr>
                                             <td>Niedziela</td>

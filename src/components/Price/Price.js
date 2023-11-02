@@ -84,6 +84,10 @@ class Price extends React.Component {
                                             <td>Wąsik</td>
                                             <td className="text-right py-3 whitespace-nowrap">20 PLN +</td>
                                         </tr>
+                                        <tr className="border-b md:border-none">
+                                            <td>Laminacja i lifting brwi</td>
+                                            <td className="text-right py-3 whitespace-nowrap">100 PLN +</td>
+                                        </tr>
                                         <tr>
                                             <td>Przedłużanie lub zagęszczanie włosów (różnymi metodami)</td>
                                             <td className="text-right py-3 color-custom font-bold">Indywidualnie</td>
